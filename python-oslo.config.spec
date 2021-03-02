@@ -8,7 +8,7 @@
 Summary:	Oslo Configuration API
 Name:		python-oslo.config
 Version:	4.11.0
-Release:	3
+Release:	4
 License:	Apache
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/o/oslo.config/oslo.config-%{version}.tar.gz
